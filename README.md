@@ -1,6 +1,6 @@
 # Repository Description
 
-This repository contains homeworks and projects for CS 135: Introduction to Machine Learning and Data Mining, taken at Tufts University. This is a part of my coursework towards an MS in Data Analytics at Tufts.
+This repository contains homeworks for CS 135: Introduction to Machine Learning and Data Mining, taken at Tufts University. This is a part of my coursework towards an MS in Data Analytics at Tufts.
 
 * Following concepts covered:
   * Regression (Linear and Ridge)
